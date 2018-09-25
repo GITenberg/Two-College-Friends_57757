@@ -1,11 +1,16 @@
 _repo: Two-College-Friends_57757
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57757-h/images/cover.jpg
 creator:
   author:
     agent_name: Loring, Fred. W.
     gutenberg_agent_id: '49580'
     url: http://www.gutenberg.org/2009/agents/49580
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57757#Two-College-Friends
 gutenberg_issued: '2018-08-24'
 gutenberg_type: Text
 identifiers:
